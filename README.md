@@ -1,4 +1,4 @@
-# Hi, I'm Israel Sanchez 👋
+# Hi, I'm Israel Sanchez 👋 OpSigma80
 
 > *I don't just write code. I design systems that survive.*
 
